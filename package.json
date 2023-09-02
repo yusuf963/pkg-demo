@@ -20,11 +20,14 @@
     "typescript": "^5.2.2"
   },
   "release-it": {
-    "git": {
-      "commitMessage": "chore: release v${version}"
-    },
     "github": {
       "release": true
+    },
+    "npm": {
+      "publish": true
+    },
+    "git": {
+      "commitMessage": "release v${version}"
     }
   }
 }
