@@ -17,5 +17,13 @@
     "release-it": "^16.1.5",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release v${version}"
+    },
+    "github": {
+      "release": true
+    }
   }
 }
