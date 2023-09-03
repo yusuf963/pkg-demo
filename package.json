@@ -9,7 +9,7 @@
   "description": "package for changeset demo",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
-    "release": "release-it --ci",
+    "release": "release-it --ci --no-npm",
     "lint": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
