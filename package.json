@@ -9,7 +9,7 @@
   "description": "package for changeset demo",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
-    "release": "release-it",
+    "release": "release-it --ci",
     "lint": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,7 +24,7 @@
       "release": true
     },
     "npm": {
-      "publish": false
+      "publish": true
     },
     "git": {
       "commitMessage": "release v${version}"
