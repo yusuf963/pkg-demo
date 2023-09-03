@@ -24,7 +24,7 @@
       "release": true
     },
     "npm": {
-      "publish": true
+      "publish": false
     },
     "git": {
       "commitMessage": "release v${version}"
