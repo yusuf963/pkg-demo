@@ -21,6 +21,7 @@
   },
   "release-it": {
     "github": {
+      "tag": false,
       "release": true
     },
     "npm": {
