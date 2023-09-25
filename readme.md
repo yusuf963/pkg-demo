@@ -8,5 +8,11 @@
 ## Q&A about changeset cli package
 https://github.com/changesets/changesets/blob/main/docs/common-questions.md
 
-## Tutorila 
+## Tutorial 
 https://www.youtube.com/watch?v=eh89VE3Mk5g&ab_channel=MattPocock
+
+
+
+https://www.youtube.com/watch?v=BbdFfvZNWNw&ab_channel=Codity
+https://github.com/codityco/001-add-a-changelog-to-any-project/blob/develop/package.json
+https://github.com/release-it/release-it/blob/HEAD/docs/npm.md
